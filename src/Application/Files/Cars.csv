@@ -1,0 +1,11 @@
+Make,Model,Year,Engine Type,Displacement (L),Horsepower,Fuel Type,Manual Author,Pages,Language,Last Updated
+Toyota,Corolla,2022,Inline-4,1.8,139,Petrol,Toyota Motors,250,English,2023-01-15
+Honda,Civic,2021,Inline-4,2.0,158,Petrol,Honda Corp,245,English,2022-12-05
+Ford,Mustang,2023,V8,5.0,450,Petrol,Ford Performance,300,English,2023-03-22
+Tesla,Model 3,2022,Electric,0.0,283,Electric,Tesla Inc.,150,English,2023-02-01
+BMW,320i,2020,Inline-4 Turbo,2.0,180,Petrol,BMW AG,270,German,2021-11-10
+Chevrolet,Camaro,2021,V6,3.6,335,Petrol,Chevy Manual Team,290,English,2022-07-18
+Volkswagen,Golf,2019,Inline-4,1.4,147,Petrol,VW Group,230,English,2020-09-30
+Hyundai,Elantra,2022,Inline-4,2.0,147,Petrol,Hyundai Motor,260,Korean,2023-01-10
+Kia,Forte,2021,Inline-4,2.0,147,Petrol,Kia Tech Docs,240,English,2022-08-15
+Mazda,3,2020,Inline-4,2.5,186,Petrol,Mazda Engineering,255,Japanese,2021-12-01
